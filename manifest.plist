@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>下载时大图（非必填）</string>
+					<string>https://raw.githubusercontent.com/286545761/hxjr/master/app_logo1024-01-1.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>下载时小图（非必填）</string>
+					<string>https://raw.githubusercontent.com/286545761/hxjr/master/Icon-Small.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
